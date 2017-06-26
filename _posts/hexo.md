@@ -15,6 +15,8 @@ categories: [other]
 > git remote  -v
 > git add .
 > git commit -m "all"
+> git push -u origin-file
+> git remote remove origin //删除远程仓库链接
 
 
 ## 其他
