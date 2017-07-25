@@ -13,5 +13,6 @@ categories: [other]
 ## 其他
 * [解决办法参考](http://www.cnblogs.com/dingziyin/p/6510473.html)
 * [firefox国际版下载](https://www.mozilla.org/en-US/firefox/all/)
+* [firefox历史版本](http://ftp.mozilla.org/pub/firefox/releases/)
 
 
