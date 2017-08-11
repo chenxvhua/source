@@ -26,7 +26,7 @@ ellipsis 省略号
 <string> 字符串
 
 ## 其他
-* [Array](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [alloyteam](http://www.alloyteam.com/2016/05/css-word-for-word-breaker-do-you-really-understand/#prettyPhoto)
 
 
 
